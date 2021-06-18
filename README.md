@@ -1,6 +1,8 @@
 # android_device_huawei_toronto
 Huawei Y7 2017/Y7 Prime 2017/Enjoy 7 Plus TWRP Device Tree
 
+Based on TRT-AL00C00B210(Also the TRT-AL00A/TRT-TL10)
+
 ## Building Guide:
 
 ```
